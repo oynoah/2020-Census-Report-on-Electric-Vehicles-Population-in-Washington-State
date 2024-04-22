@@ -10,5 +10,4 @@
 
 **_Keywords:_**
 
-PHEV – Plug-In Hybrid Electric Vehicles
-BEV – Battery Electric Vehicles
+_Plug-In Hybrid Electric Vehicles_, _Battery Electric Vehicles_
